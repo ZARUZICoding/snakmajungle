@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #bbf7f2;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+.card-text {
+  text-align: center;
+  font-style: italic;
+}
+
+.img {
+  padding-top: 6rem;
+}
